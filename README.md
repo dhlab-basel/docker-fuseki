@@ -1,6 +1,6 @@
-# Apache Jena Fuseki 3.0.0 Docker Image
+# Apache Jena Fuseki 3 Docker Image
 
-This repository contains a Dockerfile for building an image with **Apache Jena Fuseki 3.0.0**, the latest released version supported by [Knora](https://github.com/dhlab-basel/Knora).
+This repository contains a Dockerfile for building an image with the latest version of **Apache Jena Fuseki 3** supported by [Knora](https://github.com/dhlab-basel/Knora).
 
 Fuseki is the triplestore from the Apache Jena project (http://https://jena.apache.org). Apache Jena license applies.
 
