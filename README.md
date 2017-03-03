@@ -7,11 +7,13 @@ Fuseki is the triplestore from the Apache Jena project (http://https://jena.apac
 
 ## Usage
 
+
 ### Docker Hub
 
-````
-$ docker run --rm -it -p 3030:3030 dhlabbasel:fuseki
-````
+```
+$ docker run --rm -it -p 3030:3030 dhlabbasel/fuseki
+```
+
 
 ### Local Build
 
